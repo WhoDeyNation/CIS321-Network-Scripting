@@ -1,1 +1,1 @@
-﻿
+﻿$name = Read-Host "Type Your Name"
